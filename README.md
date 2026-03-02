@@ -58,7 +58,7 @@ The dataset used in this project consists of multiple attributes, including:
 Data preprocessing steps include handling missing values, feature scaling, and encoding categorical variables.
 
 ## Model Training
-- **Data Preprocessing**: Cleaning, normalization, and feature selection
+- **Data Preprocessing**: Cleaning, normalization
 - **Algorithm Used**: XGBoost (Extreme Gradient Boosting)
 - Evaluation Metrics: Mean Squared Error (MSE), R-Squared (R²)
 - Hyperparameter Tuning: GridSearchCV for optimal performance
